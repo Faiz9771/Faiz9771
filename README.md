@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About ME 
+const Faiz = {
+  role: "AIML @Pune, India",
+  focus: "growth everyday",
+  passion: "build anything i like"
+};
