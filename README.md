@@ -1,13 +1,12 @@
-> *"Every Week I try new ideas on Building in public."*
+> *"I do everything for expected outcome not just for doing it."*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwitholga" alt="buildwitholga" /> </p>
 
 ## About Me
 ```typescript
-const Olga = {
-  role: "Computer Science @Vienna",
-  focus: "Full Stack Development",
-  passion: "Contribute Open Source and build tiny startups"
+const Faiz = {
+  role: "AIML @Pune",
+  focus: "just growth everyday",
+  passion: "build anything i like"
 };
 ```
 
