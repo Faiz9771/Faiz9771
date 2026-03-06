@@ -12,7 +12,8 @@
 
 ```typescript
 const Faiz = {
-  role: "AI/ML Engineer @MIT WPU, Pune",
+  role: "Data Engineer Intern @Veraxion",
+  currently: "Bengaluru, Karnataka",
   mindset: "Relentless growth, one build at a time",
   passion: "Turning ideas into working products"
 };
@@ -21,11 +22,11 @@ const Faiz = {
 ## Tech Stack
 
 ### Machine Learning
-![Python ML](https://img.shields.io/badge/Python-Machine%20Learning-yellow?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Library-f7931e?logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-d00000?logo=keras&logoColor=white)
-![Dask](https://img.shields.io/badge/Dask-Parallel%20Computing-orange?logo=dask&logoColor=white)
+![Python ML](https://img.shields.io/badge/Python-Machine%20Learning-yellow?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Library-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-d00000?style=for-the-badge&logo=keras&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-Parallel%20Computing-orange?style=for-the-badge&logo=dask&logoColor=white)
 
 ### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -70,7 +71,9 @@ const Faiz = {
 
 
 
-### 📊 Weekly development breakdown
+## 📊 Weekly Development Breakdown
+
+How I spent my coding time this week.
 
 <!--START_SECTION:waka-->
 
