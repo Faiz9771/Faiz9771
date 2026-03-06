@@ -1,7 +1,13 @@
-> *"I do everything for the expected outcome — not just for doing it."*
+> *“I build with purpose — every line of code moves toward a result.”*
+
+<h1 align="center">Hi, I'm Faiz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&width=1000&lines=Hey!+I'm+Faiz+-+ML+Undergrad+%7C+Full-stack+Builder;Weekend+SaaS+Dev+%7C+I+Love+Shipping+Ideas+into+Products" alt="Typing SVG" />
+Machine Learning Undergraduate • Full-Stack Builder • Product-Driven Developer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Machine+Learning+Student+building+real+world+systems;Full-Stack+Developer+who+loves+shipping+products;Weekend+SaaS+Builder+turning+ideas+into+tools;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 
